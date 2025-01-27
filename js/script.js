@@ -13,3 +13,8 @@ fans.addEventListener("mouseover", function () {
 fish.addEventListener("mouseover", function() {
     fish.innerText = "47k";
 });
+
+pets.addEventListener("mouseover", function() {
+    pets.innerText = "20k";
+});
+
